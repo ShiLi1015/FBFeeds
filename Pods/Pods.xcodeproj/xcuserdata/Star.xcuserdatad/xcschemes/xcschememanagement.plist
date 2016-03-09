@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DownPicker-DownPicker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>DownPicker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PEPhotoCropEditor.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TPKeyboardAvoiding.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2998613DAD37888612E9B61EFF1531E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EB35E4BB82FFC5801F48C67A35AC0D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF02DE907B5FB497D432BE0E8E56F848</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C83C94ADA2C326E47EA683461E894A04</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E169AEE5BC6DA37C87A0859FCCB89995</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
